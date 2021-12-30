@@ -1,0 +1,33 @@
+{
+  "name": "bull-server",
+  "version": "1.0.0",
+  "description": "Bull-server example source code. Repo managed by utopiops.com.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkamrani/example-node-bull.git"
+  },
+  "keywords": [
+    "utopiops",
+    "bull",
+    "nodejs",
+    "javascript",
+    "hosting",
+    "cloud",
+    "platform as a server"
+  ],
+  "author": "public-repos@utopiops.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkamrani/example-node-bull/issues"
+  },
+  "homepage": "https://github.com/mkamrani/example-node-bull#readme",
+  "dependencies": {
+    "bull": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
