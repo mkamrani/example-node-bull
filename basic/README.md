@@ -12,4 +12,5 @@ This repository shows you how to set up bull and demonstrates a simple use case.
 
 In this basic example the producer of the jobs and the consumer are defined in the same file.
 
-Follow xxx for the instructions.
+Follow https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1 for the instructions.
+
