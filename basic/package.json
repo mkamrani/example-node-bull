@@ -1,10 +1,10 @@
 {
   "name": "bull-server",
   "version": "1.0.0",
-  "description": "Bull-server example source code. Repo managed by utopiops.com.",
-  "main": "server.js",
+  "description": "Bull basic example source code.",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
