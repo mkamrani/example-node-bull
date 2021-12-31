@@ -6,11 +6,9 @@
  ██████     ██     ██████  ██      ██  ██████  ██      ███████ ██  ██████  ██████  ██      ██ 
 ```                                                                                              
                                                                                               
-Bull basic example
+Separate processes for producer and consumer example
 
-This repository shows you how to set up bull and demonstrates a simple use case. 
+This repository shows you how to set up bull and demonstrates how to have separate processes to produce and consume/process the jobs.
 
-In this basic example the producer of the jobs and the consumer are defined in the same file.
-
-Follow https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-basics for the instructions.
+Follow https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-separate-producer-and-consumer for the instructions.
 
